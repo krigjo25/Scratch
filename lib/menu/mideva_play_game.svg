@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 74 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <g transform="matrix(1,0,0,1,-49.8295,-44.5759)">
+        <g transform="matrix(0.341874,0,0,0.341874,67.3822,-24.6368)">
+            <g id="Mideval-banner-03" serif:id="Mideval banner 03" transform="matrix(0.153794,0,0,0.269993,-97.6886,43.1924)">
+                <g>
+                    <g id="copy" transform="matrix(0.322829,0,0,1,81.7427,217.161)">
+                        <path d="M709.714,471.248L1086.23,590.395L711.714,708.276L1654.32,708.276L1654.32,470.551L709.714,471.248Z" style="fill:rgb(238,215,161);stroke:rgb(2,0,0);stroke-width:15.07px;"/>
+                    </g>
+                    <path d="M615.806,925.438L524.83,832.386L615.359,832.386L615.806,925.438Z" style="fill:rgb(163,154,122);stroke:rgb(2,0,0);stroke-width:13.31px;"/>
+                </g>
+                <g>
+                    <g id="copy1" serif:id="copy" transform="matrix(-0.322829,0,0,1,1909.89,218.185)">
+                        <path d="M709.714,471.248L1086.23,590.395L711.714,708.276L1654.32,708.276L1654.32,470.551L709.714,471.248Z" style="fill:rgb(238,215,161);stroke:rgb(2,0,0);stroke-width:15.07px;"/>
+                    </g>
+                    <g transform="matrix(-1,0,0,1,1991.63,1.02331)">
+                        <path d="M615.806,925.438L524.83,832.386L615.359,832.386L615.806,925.438Z" style="fill:rgb(163,154,122);stroke:rgb(2,0,0);stroke-width:13.31px;"/>
+                    </g>
+                </g>
+                <path d="M615.806,837.433L527.975,824.988" style="fill:none;"/>
+                <g id="copy2" serif:id="copy" transform="matrix(1,0,0,1,-187.916,123.826)">
+                    <clipPath id="_clip1">
+                        <path d="M709.714,471.248L710.989,566.824L711.714,708.276L1654.32,708.276L1654.32,470.551L709.714,471.248Z"/>
+                    </clipPath>
+                    <g clip-path="url(#_clip1)">
+                        <g transform="matrix(19.0193,-0,-0,10.8338,489.266,466.037)">
+                            <use xlink:href="#_Image2" x="11.591" y="0.417" width="50px" height="22px"/>
+                        </g>
+                    </g>
+                    <path d="M709.714,471.248L710.989,566.824L711.714,708.276L1654.32,708.276L1654.32,470.551L709.714,471.248Z" style="fill:none;stroke:black;stroke-width:11.09px;"/>
+                </g>
+                <g transform="matrix(2.87397,0,0,2.87397,-4169.29,-6663.57)">
+                    <g transform="matrix(50,0,0,50,1932.21,2577.97)">
+                    </g>
+                    <text x="1654.28px" y="2577.97px" style="font-family:'ArialMT', 'Arial';font-size:50px;">Play a game</text>
+                </g>
+            </g>
+        </g>
+    </g>
+    <defs>
+        <image id="_Image2" width="50px" height="22px" xlink:href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEAYABgAAD/2wBDAAUDBAQEAwUEBAQFBQUGBwwIBwcHBw8LCwkMEQ8SEhEPERETFhwXExQaFRERGCEYGh0dHx8fExciJCIeJBweHx7/2wBDAQUFBQcGBw4ICA4eFBEUHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh7/wAARCAAWADIDAREAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAQAFCP/EABwQAAICAwEBAAAAAAAAAAAAAAABE2EDElECEf/EABcBAQEBAQAAAAAAAAAAAAAAAAABBAX/xAAYEQEBAQEBAAAAAAAAAAAAAAAAEhEBE//aAAwDAQACEQMRAD8A6qls4VtslZS2kmVCyUsiLZJkQpJO6LXDFuhRjKWezB6NMmey+hJnsvoklZ7Fkmey+iSVnsvoSZ7LaSzTE0L6+jRfX0aHZ9G9MWz6XemHf0K6Yt/QrqY//9k="/>
+    </defs>
+</svg>
