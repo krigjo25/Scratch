@@ -12,17 +12,21 @@ This was inspired of the maze game which was highly popular prank game for some 
 ##   Project summary
 
 *   During the project i learned the basic of Scratch, how the different functions works to gether
+
 *   During the project i learned how to create basic illustrations for the background, characters.
 
 *   During the project i experienced some challenges with <b>Sensing - Color touches color</b>, function. For some reason the function can not be called for <b> Black color</b> or <b> Red Shades </b>, the work around would be when a specific color is touched, do something.
-
 
 #   Credits
 
 ##  Photos
 
+###  Characters
+
+[CS50 Duck - by Sophie Anderson.]()
+[CS50 Mouse - by ]()
 ### Backdrops
-[Maze_maps by - krigjo25]()
+[Maze_maps by - krigjo25](//game/maze%20game/maps/)
 [Mideva_castle - krigjo25](https://pixabay.com/no/users/4386967/)
 [Mideva_banner - krigjo25](https://pixabay.com/no/users/4386967/)
 
@@ -34,10 +38,6 @@ This was inspired of the maze game which was highly popular prank game for some 
 
 [relaxing-piano-201831 by Calvin Clavier](https://pixabay.com/no/music/moderne-klassisk-relaxing-piano-201831/)
 
-### Characters
-
-- main Character - krigjo25
-- 
 Project is developed by 
 
 @krigjo25
