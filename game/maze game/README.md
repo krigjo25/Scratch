@@ -29,12 +29,14 @@ This was inspired of the maze game which was highly popular prank game for some 
 
 ###  Characters
 
-[CS50 Duck - by Sophie Anderson.]()
+[CS50 Duck - by Svein Erik Gjøsund]()
 [CS50 Mouse - by ]()
+
 ### Backdrops
 [Maze_maps by - krigjo25](//game/maze%20game/maps/)
 [Mideva_castle - krigjo25](https://pixabay.com/no/users/4386967/)
 [Mideva_banner - krigjo25](https://pixabay.com/no/users/4386967/)
+[Background_start - MiikTurboWalpaper](https://alphacoders.com/users/profile/285577/MaikTurboWallpaper)
 
 ### Effects
 
