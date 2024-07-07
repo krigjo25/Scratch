@@ -20,7 +20,7 @@ This was inspired of the maze game which was highly popular prank game for some 
 ##   Project summary
 
 *   During the project i learned the basic of Scratch, how the different functions works together
-*i also learned the basic of affinity designer.
+*   i also learned the basic of affinity designer.
 *   During the project i experienced some challenges with <b>Sensing - Color touches color</b>, function. For some reason the function can not be called for <b> Black color</b> or <b> Red Shades </b>, the work around would be when a specific color is touched, do something.
 
 #   Credits

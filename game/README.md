@@ -33,6 +33,9 @@
 
 [relaxing-piano-201831 by Calvin Clavier](https://pixabay.com/no/music/moderne-klassisk-relaxing-piano-201831/)
 
+[A fix to make svg compatible for Scratch - micahlt](https://github.com/micahlt/scratchimportfixer)
+[Svg fixer](https://sif.micahlindley.com/#)
+
 Project is developed by 
 
 @krigjo25
